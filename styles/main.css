@@ -3,3 +3,17 @@ body{
     color: wheat;
 }
 
+.header {
+    background: #000;
+}
+.logo {
+    width: 20px;
+    height: 40px;
+    background-color: red;
+}
+.navList {
+    height: 100px;
+width: 100%;
+background-color: aquamarine;
+    color: #000;
+}
